@@ -1,0 +1,70 @@
+
+div#menu {
+	font-family: stencil;
+	background-color: pink;
+	border-bottom: 10px solid #fff;
+	font-size: 50px;
+	padding: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	height: 250px;
+}
+
+
+a {
+	display: inline;
+	padding: 10px;
+	color: #ff69b4;
+	word-break: : 30px;
+	letter-spacing: 2px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #d0417e;
+	text-decoration: none;
+	border-radius: 120px;
+}
+
+div#contato {
+	float: right;
+}
+
+div#corpo {
+	text-align: center;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.input-text {
+	border-radius: 120px;
+}
+
+input.botao {
+	color: #ff69b4;
+	background: pink;
+	text-transform: uppercase;
+	font-family: stencil;
+	text-decoration: none;
+	border-radius: 120px;
+}
+
+input:hover {
+	color: #d0417e;
+	text-decoration: none;
+	border-radius: 120px;
+}
+
+div#quem {
+	text-align: center;
+	color: #ff69b4;
+	text-shadow: 0.1em 0.1em pink;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+}
+
+div#rodape {
+	background-color: pink;
+	padding: 30px;
+}

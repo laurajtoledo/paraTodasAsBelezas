@@ -1,0 +1,81 @@
+
+div#titulo {
+	color: #ff69b4;
+	text-shadow: 0.1em 0.1em pink;
+	padding-bottom: 50px;
+	padding-top: 40px;
+	border-bottom: 10px solid #fff;
+	font-size: 70px;
+	text-align: center;
+	font-weight: bold;
+	font-family: stencil;
+}
+
+div#menu {
+	font-family: stencil;
+	background-color: pink;
+	border-bottom: 10px solid #fff;
+	font-size: 50px;
+	padding: 30px;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	height: 250px;
+}
+
+a {
+	display: inline;
+	padding: 10px;
+	color: #ff69b4;
+	letter-spacing: 2px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #d0417e;
+	text-decoration: none;
+	border-radius: 120px;
+}
+
+div#contato {
+	float: right;
+}
+
+div#corpo {
+	text-align: center;
+	color: pink;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.img-circle {
+	border-radius: 50px;
+}
+
+div#quem {
+	text-align: center;
+	color: #ff69b4;
+	text-shadow: 0.1em 0.1em pink;
+	font-size: 50px;
+	text-align: center;
+	font-weight: bold;
+}
+
+div#intuito {
+	font-size: 30px;
+	text-align: center;
+	padding: 50px;
+	font-weight: bold;
+}
+
+div#nos {
+	text-align: center;
+	font-size: 30px;
+	text-align: center;
+	padding: 50px;
+	font-weight: bold;
+}
+
+div#rodape {
+	background-color: pink;
+	padding: 30px;
+}
